@@ -85,5 +85,5 @@ data:
     receivers:
     - name: 'slack'
       slack_configs:
-      - api_url: https://chateautechlab.slack.com/archives/C090H1S5BRC
+      - api_url: https://hooks.slack.com/services/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
         channel: '#webhooks'

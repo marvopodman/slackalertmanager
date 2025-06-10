@@ -36,7 +36,7 @@ data:
         labels:
           severity: slack
         annotations:
-          summary: "This is a test alert"
+          summary: "This is a test alertttttt"
           description: "This alert is for testing the Alertmanager integration."
 
   prometheus.yml: |-
